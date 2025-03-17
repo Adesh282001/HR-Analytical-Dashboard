@@ -7,6 +7,10 @@ Here’s the text with proper spacing and line gaps for better readability:
 ### 🎯 **Project Objective**
 The objective of this project is to analyze key HR metrics, including attrition, job satisfaction, employee demographics, and education background. The insights gained from this dashboard will help organizations make informed decisions regarding workforce management, employee retention, and job satisfaction improvement.
 
+
+### 📂**Dataset Used**
+-[HR Analytics Dashboard] (https://github.com/Adesh282001/HR-Analytical-Dashboard/blob/main/HR%20Data.xlsx)
+
 ### ❓ **Key Questions Addressed**
 - 🔢 **What is the overall attrition rate in the organization?**
 - 🏢 **Which department has the highest attrition rate?**
