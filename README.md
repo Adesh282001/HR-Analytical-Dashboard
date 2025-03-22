@@ -10,7 +10,8 @@ The objective of this project is to analyze key HR metrics, including attrition,
 
 
 **DashBoard**
-https://github.com/Adesh282001/HR-Analytical-Dashboard/blob/main/HR%20ANALTYICS%20Dashboard.png
+![image](https://github.com/user-attachments/assets/503df37a-7399-4641-ad10-259478aa0f09)
+
 
 ### ❓ **Key Questions Addressed**
 - 🔢 **What is the overall attrition rate in the organization?**
