@@ -6,10 +6,11 @@ The objective of this project is to analyze key HR metrics, including attrition,
 
 
 ### 📂**Dataset Used**
--[HR Analytics Dashboard] (https://github.com/Adesh282001/HR-Analytical-Dashboard/blob/main/HR%20Data.xlsx)
+[HR Analytics Dashboard] (https://github.com/Adesh282001/HR-Analytical-Dashboard/blob/main/HR%20Data.xlsx)
 
 
-
+**DashBoard**
+https://github.com/Adesh282001/HR-Analytical-Dashboard/blob/main/HR%20ANALTYICS%20Dashboard.png
 
 ### ❓ **Key Questions Addressed**
 - 🔢 **What is the overall attrition rate in the organization?**
